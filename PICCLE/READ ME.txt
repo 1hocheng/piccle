@@ -1,0 +1,16 @@
+AP COMPUTER SCIENCE - PERIOD 2
+Created by Thuy-Quynh Vu, Samuel Lopez, and Howard Cheng
+
+CURRENT ERRORS ::
+- Exception in thread "main" java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "this.bufferedImage" is null
+
+MOST RECENT UPDATES ::
+- implemented working loops for game to be continuous to user's desire
+- implemented appearing quadrants corresponding to user's number of guesses
+- added comments
+
+- created RandomQuad.java object to randomize sequence of which the quadrants of the image appear
+- created/updated PicclePic.java object by adding four quadrant-updating methods and removed unnecessary methods
+- implemented setToWhite method in Pixel.java object
+- implemented getFileName method in PicclePic.java object
+- 
